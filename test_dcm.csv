@@ -1,0 +1,2 @@
+patient_id,exam_id,with_image,with_marker,age,bmi,education,phist,fhist,smo_status,quit_time,pkyr,plco,kaggle_cancer
+10001,1.2.840.113654.2.55.221581533879834196356530174246594024639,1,1,0.2407,0.2453,0.51,0,0,1.01,0.51,0.18,0.0076,0.2537

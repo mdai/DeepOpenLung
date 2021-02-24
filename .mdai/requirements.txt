@@ -1,0 +1,7 @@
+torch==1.5.0
+torchvision==0.6.0
+pandas
+pyyaml
+scikit-image
+nibabel
+dicom2nifti
